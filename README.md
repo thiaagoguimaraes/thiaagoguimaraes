@@ -25,7 +25,8 @@
  <div align="center">
  <br/>
  
- ![What Are The Best Video Games Of All Time_](https://user-images.githubusercontent.com/72541129/197295981-142c78b3-83a4-41e4-b238-ccf20f2bcc04.gif)
+ ![Chrono Trigger Video Games Sticker - Chrono Trigger Video Games Animation - Descubre   Comparte GIFs](https://user-images.githubusercontent.com/72541129/197296295-073ec295-960e-439d-a678-6a4be70305ee.gif)
+
 
 
 </div>
