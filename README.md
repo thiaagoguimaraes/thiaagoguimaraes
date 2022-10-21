@@ -1,4 +1,4 @@
-### <div align="center"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Meu nome é Thiago Guimarães! </div>
+### <div align="center"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="22px">, Meu nome é Thiago Guimarães! </div>
 
 <div align="center"> 
   </a>
