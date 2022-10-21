@@ -22,11 +22,3 @@
   <img align="center" alt="Rafa-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
  
- <div align="center">
- <br/>
- 
- ![Chrono Trigger Video Games Sticker - Chrono Trigger Video Games Animation - Descubre   Comparte GIFs](https://user-images.githubusercontent.com/72541129/197296295-073ec295-960e-439d-a678-6a4be70305ee.gif)
-
-
-
-</div>
